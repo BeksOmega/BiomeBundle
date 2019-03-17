@@ -194,6 +194,8 @@ Plant(LargeFern,25,70.0,41,139,GRASS,DIRT)
 Plant(Fern,20,75.0,41,139,GRASS,DIRT)
 Plant(OxeyeDaisy,10,75.0,41,139,GRASS,DIRT)
 Plant(AzureBluet,10,75.0,41,139,GRASS,DIRT)
+Plant(BlueOrchid,10,25.0,41,139,GRASS,DIRT)
+Plant(Dandelion,10,75.0,41,139,GRASS,DIRT)
 Liquid(WATER,20,100.0,19,139,STONE:0)
 Plant(BrownMushroom,1,10.0,0,139,GRASS,DIRT)
 
