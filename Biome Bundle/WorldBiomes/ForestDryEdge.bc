@@ -16,7 +16,7 @@ ResourceInheritance: true
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeSize: 12
+BiomeSize: 11
 
 BiomeRarity: 100
 
@@ -30,7 +30,7 @@ ReplaceToBiomeName: Savanna
 
 IsleInBiome: 
 
-BiomeSizeWhenIsle: 12
+BiomeSizeWhenIsle: 11
 
 BiomeRarityWhenIsle: 100
 
@@ -42,7 +42,7 @@ BiomeIsBorder: ForestFirThicket, ForestDry
 
 NotBorderNear: Rocks, DesertSmallRed, RedMountain
 
-BiomeSizeWhenBorder: 12
+BiomeSizeWhenBorder: 11
 
 
 #######################################################################

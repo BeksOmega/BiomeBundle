@@ -16,7 +16,7 @@ ResourceInheritance: true
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeSize: 13
+BiomeSize: 11
 
 BiomeRarity: 99
 
@@ -30,7 +30,7 @@ ReplaceToBiomeName: Cold Taiga
 
 IsleInBiome: AlpsMountainPeak
 
-BiomeSizeWhenIsle: 13
+BiomeSizeWhenIsle: 11
 
 BiomeRarityWhenIsle: 99
 
@@ -42,7 +42,7 @@ BiomeIsBorder:
 
 NotBorderNear: 
 
-BiomeSizeWhenBorder: 13
+BiomeSizeWhenBorder: 11
 
 
 #######################################################################

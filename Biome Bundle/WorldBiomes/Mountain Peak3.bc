@@ -16,7 +16,7 @@ ResourceInheritance: true
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeSize: 13
+BiomeSize: 11
 
 BiomeRarity: 100
 
@@ -30,7 +30,7 @@ ReplaceToBiomeName: Extreme Hills
 
 IsleInBiome: Mountain Peak2
 
-BiomeSizeWhenIsle: 13
+BiomeSizeWhenIsle: 11
 
 BiomeRarityWhenIsle: 100
 
@@ -42,7 +42,7 @@ BiomeIsBorder:
 
 NotBorderNear: 
 
-BiomeSizeWhenBorder: 13
+BiomeSizeWhenBorder: 11
 
 
 #######################################################################
