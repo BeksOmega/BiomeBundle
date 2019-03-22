@@ -16,9 +16,9 @@ ResourceInheritance: true
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeSize: 6
+BiomeSize: 7
 
-BiomeRarity: 70
+BiomeRarity: 100
 
 BiomeColor: #BF8538
 
@@ -30,7 +30,7 @@ ReplaceToBiomeName: Mesa
 
 IsleInBiome: 
 
-BiomeSizeWhenIsle: 6
+BiomeSizeWhenIsle: 7
 
 BiomeRarityWhenIsle: 70
 
@@ -42,7 +42,7 @@ BiomeIsBorder:
 
 NotBorderNear: 
 
-BiomeSizeWhenBorder: 6
+BiomeSizeWhenBorder: 7
 
 
 #######################################################################
@@ -51,9 +51,9 @@ BiomeSizeWhenBorder: 6
 # +-----------------------------------------------------------------+ #
 #######################################################################
 
-BiomeHeight: 0.04
+BiomeHeight: -1.0
 
-BiomeVolatility: 0.4
+BiomeVolatility: 1.0
 
 SmoothRadius: 4
 

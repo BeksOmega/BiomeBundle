@@ -38,9 +38,9 @@ BiomeRarityWhenIsle: 100
 # Border biomes only #
 ######################
 
-BiomeIsBorder: Desert, Savanna, DesertFlats, SavannaSmall
+BiomeIsBorder: Desert, Savanna, DesertFlats, SavannaSmall, DesertSmall
 
-NotBorderNear: Savanna Plateau, DesertSmall, RiverTropical, DrySavanna, DesertOasis, DesertMountain, Ocean, Beach, SavannaHills, Savanna M, DesertBaobabs
+NotBorderNear: Savanna Plateau, RiverTropical, DrySavanna, DesertOasis, DesertMountain, Ocean, Beach, SavannaHills, Savanna M, DesertBaobabs
 
 BiomeSizeWhenBorder: 9
 
