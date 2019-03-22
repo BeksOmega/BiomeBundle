@@ -185,7 +185,6 @@ CustomObject(TallNarrowDarkOakTree1,TallNarrowDarkOakTree2,TallNarrowDarkOakTree
 CustomObject(NarrowDarkOakTree1,NarrowDarkOakTree2,NarrowDarkOakTree3,NarrowDarkOakTree4)
 CustomObject(TallNarrowDarkOakTree1,TallNarrowDarkOakTree2,TallNarrowDarkOakTree3,TallNarrowDarkOakTree4)
 CustomObject(NarrowDarkOakTree1,NarrowDarkOakTree2,NarrowDarkOakTree3,NarrowDarkOakTree4)
-CustomStructure(DngStart,0.03,TotemBase,0.1,Bricktowerbranching,0.1,GravelOreT1,1.0,RedbrickHouseBranching,0.1,OvergrownDungeonBranching,0.1,CastleBranching,0.2)
 CustomObject(boulder9,boulder8,boulder7,boulder6,boulder5,boulder4,boulder3,boulder2,boulder1)
 CustomObject(forestrock1,forestrock2,forestrock3,forestrock4)
 CustomObject(plainsclutter1,plainsclutter2,plainsclutter3,plainsclutter4,plainsclutter5,plainsclutter6)

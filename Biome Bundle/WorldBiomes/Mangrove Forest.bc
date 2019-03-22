@@ -205,9 +205,8 @@ CustomObject(OakMangroveTree1,OakMangroveTree2,OakMangroveTree3,OakMangroveTree4
 CustomObject(ShrubOak1,ShrubOak2,ShrubOak3,ShrubOak4,ShrubOak5,ShrubOak6,ShrubOak7,ShrubOak8,ShrubOak9,ShrubOak10,ShrubOak11,ShrubOak12,ShrubOak13,ShrubOak14,ShrubOak15,ShrubOak16,ShrubOak17,ShrubOak18)
 CustomObject(volcmed1,volcmed2,volcmed3,VolcanoGiant1,VolcanoGiant2)
 CustomObject(plainsrock4,plainsrock3,plainsrock2,plainsrock1,boulder9,boulder8,boulder7,boulder6,boulder5,boulder4,boulder3,boulder2,boulder1)
-CustomStructure(DngStart,0.03,GravelOreT1,1.0,SwampBranching,0.2,RuinsPath1,0.1,VolcanoExtreme1,0.05,VolcanoExtreme2,0.05,VolcanoExtreme3,0.05,VolcanoExtreme4,0.05,VolcanoExtreme5,0.05,RiverRocks,0.5)
+CustomStructure(GravelOreT1,1.0,VolcanoExtreme1,0.05,VolcanoExtreme2,0.05,VolcanoExtreme3,0.05,VolcanoExtreme4,0.05,VolcanoExtreme5,0.05,RiverRocks,0.5)
 CustomObject(Geode1,Geode2,Geode3,Geode4,Geode5,Geode6)
-CustomObject(UndergroundDungeon1,UndergroundDungeon2,UndergroundDungeon3,UndergroundDungeon4,UndergroundDungeon5)
 Vines(50,100.0,61,161)
 AboveWaterRes(WATER_LILY,1,100.0)
 
