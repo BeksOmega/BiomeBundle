@@ -1,5 +1,7 @@
 Biome Bundle v6 Changelog
 
+Beka5 contributed to this version.
+
     Raised sea level to Y63 to improve mod compatibility and create more space underground (integrated all of SamGungraven's changes)
     Ore generation is now vanilla, with the exception of emeralds which have a small chance to appear in any biome
     Made volatility values more similar between biomes to improve terrain smoothing between biomes
