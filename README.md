@@ -19,3 +19,5 @@ Biome Bundle v6 Changelog
     Added a couple more structure variants added to existing structure lists
     Lots of small enhancements to existing biomes
     Note: This version is not compatible with worlds made with previous versions of Biome Bundle. Biomes have been added/removed and so seeds no longer generate the same layout. Starting a brand new world is recommended.
+
+Sam
