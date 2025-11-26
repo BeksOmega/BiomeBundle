@@ -23,3 +23,5 @@ Biome Bundle v6 Changelog
 ## Acknowledgements
 Beka
 Jenny
+Abby
+Raquel
