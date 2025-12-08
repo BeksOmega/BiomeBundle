@@ -24,4 +24,3 @@ Biome Bundle v6 Changelog
 Beka
 Jenny
 Vincent
-Charlie
